@@ -4,10 +4,6 @@
 - C++
 - C#
 
-## Workspace
-- MacBook Pro (13-inch, 2020)
-- Windows PC (Homebuilt)
-
 ## Main Interests
 - Network Programming
 - System Programming
