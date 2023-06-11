@@ -13,11 +13,6 @@
 ## Stats
 ![shellrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=shellrow&show_icons=true&theme=tokyonight)
 
-## Currently working on
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shellrow&repo=default-net&theme=tokyonight)](https://github.com/shellrow/default-net)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shellrow&repo=netscan&theme=tokyonight)](https://github.com/shellrow/netscan)
-
-
 ## Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3LNRJM)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shellrow)
