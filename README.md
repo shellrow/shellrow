@@ -7,4 +7,4 @@
 ![Crates.io User Total Downloads](https://img.shields.io/crates/udt/117934?style=for-the-badge&logo=rust&label=total%20downloads)
 
 ### Support
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3LNRJM)
+[![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge)](https://donate.stripe.com/3cIbJ046Q0671z6ctHgIo01)
